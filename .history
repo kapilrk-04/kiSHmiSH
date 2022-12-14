@@ -1,0 +1,20 @@
+sleep 15 &
+sleep 20 &
+jobs
+sleep 40 &
+jobs
+sig 1 9
+jobs
+quit
+ls -lls -acd ..cd ..quitls -lquitzquit quitls -l
+la
+ls
+quit
+sleep 7&
+sleep 8 &
+quit
+sleep 10 &
+fg 1
+sleep 12
+bg 1
+quit
